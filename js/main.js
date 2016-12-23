@@ -4,7 +4,8 @@
 
 	$('.ba-slider').slick({
 
-  		slidesToShow: 3.76
+		variableWidth: true,
+		slidesToShow: 3
 
 	});
 
